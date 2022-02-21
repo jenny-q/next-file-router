@@ -8,7 +8,7 @@ function PortfolioItem() {
     console.log(router.query)
     
     return (
-        <h1>{router.query.id}</h1>
+        <h1>portfolio list item</h1>
     )
 }
 
